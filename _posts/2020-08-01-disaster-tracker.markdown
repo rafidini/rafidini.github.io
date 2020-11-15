@@ -37,7 +37,7 @@ Après des heures à chercher des sources de données gratuites concernant les c
 ![flutter-logo](https://flutter.dev/assets/flutter-lockup-1caf6476beed76adec3c477586da54de6b552b2f42108ec5bc68dc63bae2df75.png)
 <br>
 
-Afin de créer l'application il fallait choisir un outil parmi tous ceux proposant la possibilité de créer une application mobile. Mon choix s'est porté sur **Flutter**, un outil développé par **Google** afin de créer plus facilement de belles applications. Cet outil a aussi été utilisé pour développer **[Georyx]({{ site.baseurl }}{% link _posts/2020-07-02-georyx.md %})**.
+Afin de créer l'application il fallait choisir un outil parmi tous ceux proposant la possibilité de créer une application mobile. Mon choix s'est porté sur **Flutter**, un outil développé par **Google** afin de créer plus facilement de belles applications. Cet outil a aussi été utilisé pour développer **[Georyx]({{ site.baseurl }}{% link _posts/2020-07-02-georyx.markdown %})**.
 Pour l'UI, les idées pour les pages principales étaient:
 - Une carte avec des icons pour représenter le type de catastrophe
 - Une page comparable à un flux RSS sous la forme d'une liste verticale des catastrophes triées dans l'ordre chronologique (les plus récents en haut et les plus anciens en bas).
@@ -66,7 +66,7 @@ Le développement d'une version de utilisable de l'application étant faite, il 
 Après quelque manipulations en suivant différents tutoriels sur **YouTube** l'application a réussi a être publiée sur l'**AppStore**. Cependant celà à demander du temps puisqu'il fallait qu'un développeur du côté d'Apple vérifie l'application, puis en cas de non conformité il fallait corriger les erreurs pointées par celui-ci jusqu'à obtenir son accord pour la publication.
 
 # Résultat
-![disastertracker-app](../images/disastertracker-result.png)
+![disastertracker-app]({{ site.baseurl }}/images/disastertracker-result.png)
 <br>
 
 Grâce à ce projet personnel, j'ai pu découvrir quelques étapes du développement d'une application mobile entre:
@@ -76,7 +76,7 @@ Grâce à ce projet personnel, j'ai pu découvrir quelques étapes du développe
 - Publier sur une plateforme
 Cependant le travail étant conséquent, à moi seul ce fut difficile de tout faire et ça aurait pu être intéressant de faire ce projet en équipe.
 
-> "Alone we can do so little, together we can do so much." <br> – Helen Keller
+> "Alone we can do so little, together we can do so much." – Helen Keller
 
 ***
 
