@@ -20,7 +20,10 @@ approche touristique.
 
 # Résultat
 
-<iframe src="https://www.youtube.com/watch?v=RWSZUGbOfqs" frameborder="0" allowfullscreen></iframe>
+<video width="420" height="300" controls>
+  <source src="{{ site.baseurl }}/videos/georyx.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 En fin de compte nous avons réussi à créer notre application malgré toutes les difficultés rencontrées
 pendant sa réalisation...
