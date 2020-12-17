@@ -2,12 +2,28 @@
 layout: post
 title:  Georyx
 date:   2020-07-02 15:00:00 +0300
-image:
+image:  georyx_logo_jaune.png
 tags:   iOS mobile app flutter esieeparis jourdesprojets
 ---
 
 # Déroulement
 
+Dans le cadre du ***Jour Des Projets*** à **ESIEE Paris**, l'ensemble des élèves en première
+année de cycle ingénieur devait effectuer un projet. Le projet qui sera bien sûr exposé durant
+l'exposition.
+
+# Projet
+
+Alors avec certains camarades de classes, nous avons décidé de créer une application mobile pour
+iOS et Android. De plus avec le contexte du confinement, notre application s'est orienté vers une
+approche touristique.
+
 # Résultat
 
 <iframe src="https://www.youtube.com/watch?v=RWSZUGbOfqs" frameborder="0" allowfullscreen></iframe>
+
+En fin de compte nous avons réussi à créer notre application malgré toutes les difficultés rencontrées
+pendant sa réalisation...
+- Première approche avec le télétravail
+- Project Monitoring difficile
+- Ressources limités par les plateformes
