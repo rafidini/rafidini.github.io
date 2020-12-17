@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  Dashboard en R et Python
-date:   2020-11-02 15:00:00 +0300
+title:  Leco - Full Stack WebApp
+date:   2020-12-17 23:00:00 +0300
 image:  leco_logo.png
-tags:   data visualization dashboard python r shiny ggplot python dash plotly
+tags:   data engineering webscraping docker flask mongodb
 ---
 
 # Introduction 
